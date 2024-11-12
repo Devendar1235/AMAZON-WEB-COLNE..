@@ -1,2 +1,2 @@
-# AMAZON-WEB-COLNE..
-Amazon_clone_page by using HTML and CSS 
+# AMAZON-CLONE..
+Amazon_clone_web_page by using HTML and CSS 
